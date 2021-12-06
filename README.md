@@ -40,6 +40,8 @@ These 4 components are added together and multiplied by a zone cost (for this sc
 
 For one garden in particular, the measurements given are: theta = 30°, h = 30m, g = 20m, r<sub>1</sub> = 5m, and r<sub>2</sub> = 12.5m. The garden is made up of G<sub>g</sub> = .3 (30%) grass and G<sub>f</sub> = .55 (55%) flowerbeds., where G<sub>g</sub> and G<sub>f</sub> are the fractions of the garden area covered by each. There are 3 coniferous trees (T<sub>C</sub>) and 2 deciduous (T<sub>D</sub>). 
 
+Based on a zone cost of $0.55, the garden described above would have a cost of $153.
+
 Note: G<sub>g</sub> and G<sub>f</sub> don’t need to add up to 100% because some sections of the garden are covered by the trees or stone pathways.
 
 Hints:
